@@ -5,6 +5,7 @@
 ## 📌 Project Overview
 
 This Python project, **"PropTech: Strategic Rental Investment Insights,"** offers a robust demonstration of data analysis applied to the real estate sector. Utilizing Python, it focuses on the fundamental yet critical stages of a data science workflow: **intelligent data simulation, advanced feature engineering, and in-depth Exploratory Data Analysis (EDA)**.
+
 In today's dynamic real estate market, making truly informed investment decisions requires more than just basic property details. This project showcases the ability to transform raw, fragmented data into clear, actionable insights, revealing the underlying factors that drive investment value for rental properties.
 
 ---
